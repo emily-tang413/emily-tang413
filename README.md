@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m @emily-tang from China.
+- 👋 Hi there, I’m Emily Tang from China.
 - 👀 I’m interested in all game development related things, especially gameplay and AI.
 - 🌱 I’m still a student in programming and currently learning how to use Unreal Engine and Unity.
 
